@@ -73,4 +73,4 @@ async function login(req, res) {
 //On exporte nos deux fonctions
 
 exports.login = login;
-exports.signup = signup;
+exports.signup = signup; 
